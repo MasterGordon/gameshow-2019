@@ -1,0 +1,298 @@
+[{
+  "type": "MC",
+  "fragen": [{
+    "frage": "In welchem Land gibt es eine Weltmeisterschaft im Luftgitarre Spielen?",
+    "A": "Finnland",
+    "B": "Norwegen",
+    "C": "Schweden",
+    "D": "Dänemark",
+    "right": "A"
+  }, {
+    "frage": "Welches (Musik-)Medium wird aus Polyvinylchlorid hergestellt?",
+    "A": "Kassette",
+    "B": "CD",
+    "C": "DVD",
+    "D": "Schallplatte",
+    "right": "D"
+  }, {
+    "frage": "Wie alt ist das für deutsches Bier geltende Bayerische Reinheitsgebot?",
+    "A": "200 Jahre",
+    "B": "500 Jahre",
+    "C": "1000 Jahre",
+    "D": "35 Jahre",
+    "right": "B"
+  }, {
+    "frage": "Wie nennt man den krankhaften, unwiderstehlichen Trieb, sich fremdes Eigentum anzueignen?",
+    "A": "Agoraphobie",
+    "B": "Aviophobie",
+    "C": "Legasthenie",
+    "D": "Kleptomanie",
+    "right": "D"
+  }, {
+    "frage": "Welches ist die höchste Hand, die man beim Poker haben kann?",
+    "A": "Full House",
+    "B": "Straße",
+    "C": "Royal Flush",
+    "D": "Vierling",
+    "right": "C"
+  }, {
+    "frage": "Aus welcher Stadt kommendie Beatles?",
+    "A": "London",
+    "B": "Liverpool",
+    "C": "Dublin",
+    "D": "Glasgow",
+    "right": "B"
+  }, {
+    "frage": "Was ist der häuftigste Buchstabe in der deutschen Sprache?",
+    "A": "s",
+    "B": "a",
+    "C": "t",
+    "D": "e",
+    "right": "D"
+  }, {
+    "frage": "Wie lange geht ein Marathon?",
+    "A": "42,195 Kilometer",
+    "B": "60 Kilometer",
+    "C": "100 Kilometer",
+    "D": "10 Kilometer",
+    "right": "A"
+  }, {
+    "frage": "Welcher Ozean liegt zwischen Europa und Amerika?",
+    "A": "Pazifischer Ozean",
+    "B": "Indischer Ozean",
+    "C": "Japanischer Ozean",
+    "D": "Atlantischer Ozean",
+    "right": "D"
+  }, {
+    "frage": "Wer führte bei dem Film \"Krieg der Welten\" von 2005 Regie?",
+    "A": "Steven Spielberg",
+    "B": "J.J. Abrams",
+    "C": "Martin Scorsese",
+    "D": "Michael Bay",
+    "right": "A"
+  }, {
+    "frage": "Welche Rolle spielt Geoffrey Rush in den \"Fluch der Karibik\"-Filmen?",
+    "A": "Jack Sparrow",
+    "B": "Captain Barbossa",
+    "C": "Will Turner",
+    "D": "Norrington",
+    "right": "B"
+  }, {
+    "frage": "Welcher US-Schauspieler schrieb die Drehbücher zu den Rocky-Filmen?",
+    "A": "Sylvester Stallone",
+    "B": "Al Pacino",
+    "C": "Javier Bardem",
+    "D": "Robert De Niro",
+    "right": "A"
+  }, {
+    "frage": "Aus der Feder welches Schriftstellers stammt \"Das Dschungelbuch\"?",
+    "A": "Antoine de Saint-Exupéry",
+    "B": "Heinrich Hoffmann",
+    "C": "Rudyard Kipling",
+    "D": "Jonathan Swift",
+    "right": "C"
+  }, {
+    "frage": "Wie heisst der Firmensitz von George Lucas?",
+    "A": "Death Star",
+    "B": "Skywalker Ranch",
+    "C": "Imperial Base",
+    "D": "Rebel Headquarter",
+    "right": "B"
+  }, {
+    "frage": "Was ist keine Canabis Sorte?",
+    "A": "Chernobyl",
+    "B": "Cherry Boom",
+    "C": "Bruce Banner",
+    "D": "Lemon Shining Silver Haze",
+    "right": "B"
+  }, {
+    "frage": "Was ist keine Programmiersprache",
+    "A": "Ace",
+    "B": "Bash",
+    "C": "CoffeeScript",
+    "D": "Dart",
+    "right": "A"
+  }, {
+    "frage": "Welche kanadische Provinz gehört nicht zu den drei Prärieprovinzen?",
+    "A": "Alberta",
+    "B": "Saskatchewan",
+    "C": "Manitoba",
+    "D": "Ontario",
+    "right": "D"
+  }, {
+    "frage": "Eine weltberühmte Skulptur vor dem Hauptsitz der UNO in New York zeigt ...?",
+    "A": "eine Taube mit Ölzweig",
+    "B": "zwei Menschen, die sich umarmen",
+    "C": "eine Pistole mit Knoten im Lauf",
+    "D": "einen brütenden Vogel auf einer Kanone",
+    "right": "C"
+  }, {
+    "frage": "Wozu benutzte man vor Hunderten von Jahren Streusandbüchsen?",
+    "A": "als Scheuermittel beim Putzen",
+    "B": "als Salzstreuer zum Frühstück",
+    "C": "als Streumittel bei Glatteis",
+    "D": "zum Trocknen frischer Tinte",
+    "right": "D"
+  }, {
+    "frage": "Was findet man als Bestandteil in den Space-Cookies?",
+    "A": "Cannabis",
+    "B": "Opium",
+    "C": "Zyankali",
+    "D": "Kokain",
+    "right": "A"
+  }]
+}, {
+  "type": "BZ",
+  "fragen": [{
+    "frage": "Bros - RIN"
+  }, {
+    "frage": "Shooting Stars - Bag Raiders"
+  }, {
+    "frage": "Haus am See"
+  }, {
+    "frage": "Another One Bites The Dust - Queen"
+  }, {
+    "frage": "Sandstorm - Darude"
+  }, {
+    "frage": "Kanon in D-Dur - Johann Pachelbel"
+  }, {
+    "frage": "Old Town Road - Lil Nas X"
+  }, {
+    "frage": "Shape of You - Ed Sheeran"
+  }, {
+    "frage": "Zombie - The Cranberries"
+  }, {
+    "frage": "Fallen Leaves - Billy Talent"
+  }, {
+    "frage": "The Real Slim Shady"
+  }, {
+    "frage": "Uptown Funk - Mark Ronson, Bruno Mars"
+  }, {
+    "frage": "Party Rock Anthem - LMFAO"
+  }, {
+    "frage": "Wannabe - Spice Girls"
+  }, {
+    "frage": "The Last Stand - Sabaton"
+  }]
+}, {
+  "type": "text",
+  "fragen": [{
+    "frage": "Höhle",
+    "antwort": "größerer hohler Raum, Hohlraum besonders im Gestein oder in der Erde"
+  }, {
+    "frage": "Ba­na­nen­split",
+    "antwort": "Eisspeise aus einer längs durchgeschnittenen Banane, Eis, Schlagsahne [und Schokoladensoße]"
+  }, {
+    "frage": "Gold­ket­te",
+    "antwort": "Kette aus Gold"
+  }, {
+    "frage": "Feuer",
+    "antwort": "Form der Verbrennung mit Flammenbildung, bei der Licht und Wärme entstehen"
+  }, {
+    "frage": "Jun­kie",
+    "antwort": "in fortgeschrittenem Stadium drogenabhängige Person"
+  }, {
+    "frage": "Wol­ken­bank",
+    "antwort": "ausgedehnte, sich über dem Horizont in der Waagerechten erstreckende Wolkenmasse"
+  }, {
+    "frage": "Baum­stamm",
+    "antwort": "senkrecht gewachsener fester, verholzter Teil des Baumes, über den sich die verästelte, Laub oder Nadeln tragende Krone erhebt"
+  }, {
+    "frage": "Haus­boot",
+    "antwort": "Boot, das als Wohnung dient und entsprechend eingerichtet ist"
+  }, {
+    "frage": "Kaf­fee­tas­se",
+    "antwort": "Tasse, aus der Kaffee getrunken wird"
+  }, {
+    "frage": "Klein­kind",
+    "antwort": "kleines Kind [vom dritten] bis zum sechsten Lebensjahr"
+  }, {
+    "frage": "Zu­häl­ter",
+    "antwort": "jemand, der Zuhälterei betreibt"
+  }, {
+    "frage": "Kran­ken­kas­se",
+    "antwort": "Institution, die jemanden gegen die Kosten, die durch eine Krankheit entstehen, versichert"
+  }, {
+    "frage": "Fern­glas",
+    "antwort": "handliches Fernrohr mit doppeltem Okular"
+  }, {
+    "frage": "An­th­ro­po­lo­gie",
+    "antwort": "Wissenschaft vom Menschen und seiner Entwicklung"
+  }, {
+    "frage": "Eis­tee",
+    "antwort": "Erfrischungsgetränk aus kaltem (gesüßtem) Tee"
+  }]
+}, {
+  "type": "MC",
+  "fragen": [{
+    "frage": "Eine Faust machen, den Daumen und kleinen Finger abspreizen, das ist der typische Gruß der ...?",
+    "A": "Sherpas im Himalaya",
+    "B": "Studenten in Yale",
+    "C": "Surfer auf Hawaii",
+    "D": "Kardinäle im Vatikan",
+    "right": "C"
+  }, {
+    "frage": "Biologen unterscheiden rechts- und linksäugige ...?",
+    "A": "Plattfische",
+    "B": "Kraken",
+    "C": "Flusskrebse",
+    "D": "Delfine",
+    "right": "A"
+  }, {
+    "frage": "Wer in der Antike gerne Cervisia getrunken hat, hätte heute wahrscheinlich einen Hang zu ...?",
+    "A": "Schnaps",
+    "B": "Wein",
+    "C": "Bier",
+    "D": "Likör",
+    "right": "C"
+  }, {
+    "frage": "Verlängert man die Seitenlänge eines Würfels auf das Dreifache, vergrößert sich das Volumen des Würfels auf das ...?",
+    "A": "9-fache",
+    "B": "18-fache",
+    "C": "27-fache",
+    "D": "36-fache",
+    "right": "C"
+  }, {
+    "frage": "Welches chemische Element macht mehr als die Hälfte der Masse eines menschlichen Körpers aus?",
+    "A": "Kohlenstoff",
+    "B": "Kalzium",
+    "C": "Eisen",
+    "D": "Sauerstoff",
+    "right": "D"
+  }, {
+    "frage": "Welches Meer ist nach einem mythologischen König benannt, der sich dort hineingestürzt haben soll?",
+    "A": "Ionisches Meer",
+    "B": "Ägäisches Meer",
+    "C": "Adriatisches Meer",
+    "D": "Kaspisches Meer",
+    "right": "B"
+  }, {
+    "frage": "Wie heißt die erste deutsche Briefmarke, die 1849 in Bayern herausgegeben wurde?",
+    "A": "Schwarzer Einser",
+    "B": "Roter Zweier",
+    "C": "Gelber Dreier",
+    "D": "Blauer Vierer",
+    "right": "A"
+  }, {
+    "frage": "Die Entfernung von der Hauptstadt Berlin zum Erdmittelpunkt ist ungefähr so groß wie zwischen Berlin und ...",
+    "A": "Tokio",
+    "B": "Kapstadt",
+    "C": "Moskau",
+    "D": "New York",
+    "right": "C"
+  }, {
+    "frage": "Drei Charaktere in Friedrich Dürrenmatts Drama 'Die Physiker' tragen die Namen von berühmten Physikern. Es handelt sich um: Newton, Möbius und ...",
+    "A": "Galilei",
+    "B": "Einstein",
+    "C": "Cavendish",
+    "D": "Hamilton",
+    "right": "C"
+  }, {
+    "frage": "Wie werden die Blätter vom Farn genannt?",
+    "A": "Wedel",
+    "B": "Feudel",
+    "C": "Lappen",
+    "D": "Wische",
+    "right": "C"
+  }]
+}]
